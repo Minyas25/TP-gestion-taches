@@ -1,0 +1,7 @@
+{
+  "name": "TP-gestion-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
